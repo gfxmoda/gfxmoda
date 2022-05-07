@@ -16,6 +16,16 @@
 
 - Abstraction - Infographics - Illustrations - UI/UX
 
+🎨 MAIN CREATIVE CAREER (FORMERLY) 🎨
+
+The scope of work varies between several types. Elaborations have been made with multiple artists and creative teams around the globe. Including and not limited to the following:
+
+- Art Direction - Marketing Communications - Creative Advertising - Identity Design - Presentation - Retouching - UI/UX Design - Illustration - Abstract Art - Creative Visuals - Animation - Interaction - Virtual Tours - 3D Generalization
+
+
+My motto is:
+Today we work & tolerate, tomorrow will be great & ahead!
+
 I'm quickly adaptive with the scenarios of the different work environments and enormously flexible to keep up with the general progress and development.
 
 I'm proficient with CSS and JavaScript, with extensive knowledge of UX and user psychology and the ability of building convenient and competitive style libraries that help boosting the conversion of any existing layouts entirely with improved design and code.
@@ -32,30 +42,4 @@ I'm and eloquently former creator of impressive identity design styleguides, bra
 
 I'm optimist about having the opportunity to produce useful technologies that help solving problems for humanity. And big striker in solving competitive programming challenges under very strict rules and constraints... Yet still consider myself don't know programming well and will keep spending my whole life learning it!
 
-My motto is:
-Today we work & tolerate, tomorrow will be great & ahead!
-
-Thanks for reading. And here's more about my current life:
-
 I’m currently working on The VR Voyage Classroom which is basically a platform that brings together institutions and experts from across the world to create an immersive and engaging learning experience for students. It's Canadian based organization located in Gibsons, British Columbia.
-
-I’m currently learning deeply the backend development using Nodejs. Why?! Because I love Javascript. It's so powerful! I found out that I can do anything with it.
-
-🎨 MAIN CREATIVE CAREER (FORMERLY) 🎨
-
-The scope of work varies between several types. Elaborations have been made with multiple artists and creative teams around the globe. Including and not limited to the following:
-
-- Art Direction
-- Marketing Communications
-- Creative Advertising
-- Identity Design
-- Presentation
-- Retouching
-- UI/UX Design
-- Illustration
-- Abstract Art
-- Creative Visuals
-- Animation
-- Interaction
-- Virtual Tours
-- 3D Generalization
