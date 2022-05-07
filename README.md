@@ -1,5 +1,42 @@
 ### Hi there 👋 I'm Mahmoud, Creative Professional Full-stack Web Developer and former Creative Art Director with massive experience designing and building beautiful & responsive web apps and aesthetic user interfaces in different industry fields. VR, Finance, F&B, Cosmetics, Education, and more...
 
+📧 gfxmoda@gmail.com
+☎️ EG: 00201273885155   BH: 0097334083104
+🏠 Alexandria, Egypt
+
+🔥 SKILLS 🔥          🔥 TECHNIQUES 🔥
+
+- C++                 - OOP
+- Javascript          - Data Structures
+- Nodejs              - Algorithms
+- Expressjs           - Mathematics
+- Reactjs             - Problem Solving
+- Redux               - Pseudocodes
+- Vanillajs           - Flowcharts
+- MongoDB
+- Python
+- Dart
+- Flutter
+- CSS
+- HTML
+
+🔥 TECHNIQUES 🔥
+
+- OOP
+- Data Structures
+- Algorithms
+- Mathematics
+- Problem Solving
+- Pseudocodes
+- Flowcharts
+
+🔥 ART DIRECTION 🔥
+
+- Abstraction
+- Infographics
+- Illustrations
+- UI/UX
+
 I'm quickly adaptive with the scenarios of the different work environments and enormously flexible to keep up with the general progress and development.
 
 I'm proficient with CSS and JavaScript, with extensive knowledge of UX and user psychology and the ability of building convenient and competitive style libraries that help boosting the conversion of any existing layouts entirely with improved design and code.
