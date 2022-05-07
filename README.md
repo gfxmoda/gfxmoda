@@ -6,22 +6,20 @@
 
 🚀 SKILLS 🚀
 
-- C++ - Javascript - Nodejs - Expressjs - Reactjs - Redux - Vanillajs - MongoDB - Python - Dart - Flutter - CSS - HTML
+C++, Javascript, Nodejs, Expressjs, Reactjs, Redux, Vanillajs, MongoDB, Python, Dart, Flutter, CSS, HTML
 
 💻 TECHNIQUES 💻
 
-- OOP - Data Structures - Algorithms - Mathematics - Problem Solving - Pseudocodes - Flowcharts
+OOP, Data Structures, Algorithms, Mathematics, Problem Solving, Pseudocodes, Flowcharts
 
 🔥 ART DIRECTION 🔥
 
-- Abstraction - Infographics - Illustrations - UI/UX
+Abstraction, Infographics, Illustrations, UI/UX
 
 🎨 MAIN CREATIVE CAREER (FORMERLY) 🎨
 
-The scope of work varies between several types. Elaborations have been made with multiple artists and creative teams around the globe. Including and not limited to the following:
-
-- Art Direction - Marketing Communications - Creative Advertising - Identity Design - Presentation - Retouching - UI/UX Design - Illustration - Abstract Art - Creative Visuals - Animation - Interaction - Virtual Tours - 3D Generalization
-
+The scope of work varies between several types. Elaborations have been made with multiple artists and creative teams around the globe. Including and not limited to:
+Art Direction, Marketing Communications, Creative Advertising, Identity Design, Presentation, Retouching, UI/UX Design, Illustration, Abstract Art, Creative Visuals, Animation, Interaction, Virtual Tours, 3D Generalization
 
 My motto is:
 Today we work & tolerate, tomorrow will be great & ahead!
