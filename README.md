@@ -6,36 +6,15 @@
 
 🚀 SKILLS 🚀
 
-- C++
-- Javascript
-- Nodejs
-- Expressjs
-- Reactjs
-- Redux
-- Vanillajs
-- MongoDB
-- Python
-- Dart
-- Flutter
-- CSS
-- HTML
+- C++ - Javascript - Nodejs - Expressjs - Reactjs - Redux - Vanillajs - MongoDB - Python - Dart - Flutter - CSS - HTML
 
 💻 TECHNIQUES 💻
 
-- OOP
-- Data Structures
-- Algorithms
-- Mathematics
-- Problem Solving
-- Pseudocodes
-- Flowcharts
+- OOP - Data Structures - Algorithms - Mathematics - Problem Solving - Pseudocodes - Flowcharts
 
 🔥 ART DIRECTION 🔥
 
-- Abstraction
-- Infographics
-- Illustrations
-- UI/UX
+- Abstraction - Infographics - Illustrations - UI/UX
 
 I'm quickly adaptive with the scenarios of the different work environments and enormously flexible to keep up with the general progress and development.
 
@@ -80,27 +59,3 @@ The scope of work varies between several types. Elaborations have been made with
 - Interaction
 - Virtual Tours
 - 3D Generalization
-
-🏢 EXPERTISE 🏢
-
-Full-Stack Developer/ Virtual Tour Developer/ Senior UI & UX Designer
-Forager Media Group, Ireland
-Nov 2020 - Present
-
-Art Director/ Creative
-outboxCreative, Bahrain
-Apr 2019 - Oct 2020
-
-Senior Graphic Designer
-Al Ghalia, Bahrain
-Apr 2018 - Apr 2019
-
-Art Director
-OZON Advertising, Bahrain
-Apr 2017 - Apr 2018
-
-Senior Graphic Designer
-TCIG, Bahrain
-Nov 2015 - Mar 2017
-
-And the list goes on. Kindly ask for the updated resume.
