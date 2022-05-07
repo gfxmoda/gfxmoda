@@ -4,15 +4,15 @@
 ☎️ EG: 00201273885155   BH: 0097334083104
 🏠 Alexandria, Egypt
 
-🔥 SKILLS 🔥          🔥 TECHNIQUES 🔥
+🚀 SKILLS 🚀
 
-- C++                 - OOP
-- Javascript          - Data Structures
-- Nodejs              - Algorithms
-- Expressjs           - Mathematics
-- Reactjs             - Problem Solving
-- Redux               - Pseudocodes
-- Vanillajs           - Flowcharts
+- C++
+- Javascript
+- Nodejs
+- Expressjs
+- Reactjs
+- Redux
+- Vanillajs
 - MongoDB
 - Python
 - Dart
@@ -20,7 +20,7 @@
 - CSS
 - HTML
 
-🔥 TECHNIQUES 🔥
+💻 TECHNIQUES 💻
 
 - OOP
 - Data Structures
@@ -61,3 +61,46 @@ Thanks for reading. And here's more about my current life:
 I’m currently working on The VR Voyage Classroom which is basically a platform that brings together institutions and experts from across the world to create an immersive and engaging learning experience for students. It's Canadian based organization located in Gibsons, British Columbia.
 
 I’m currently learning deeply the backend development using Nodejs. Why?! Because I love Javascript. It's so powerful! I found out that I can do anything with it.
+
+🎨 MAIN CREATIVE CAREER (FORMERLY) 🎨
+
+The scope of work varies between several types. Elaborations have been made with multiple artists and creative teams around the globe. Including and not limited to the following:
+
+- Art Direction
+- Marketing Communications
+- Creative Advertising
+- Identity Design
+- Presentation
+- Retouching
+- UI/UX Design
+- Illustration
+- Abstract Art
+- Creative Visuals
+- Animation
+- Interaction
+- Virtual Tours
+- 3D Generalization
+
+🏢 EXPERTISE 🏢
+
+Full-Stack Developer/ Virtual Tour Developer/ Senior UI & UX Designer
+Forager Media Group, Ireland
+Nov 2020 - Present
+
+Art Director/ Creative
+outboxCreative, Bahrain
+Apr 2019 - Oct 2020
+
+Senior Graphic Designer
+Al Ghalia, Bahrain
+Apr 2018 - Apr 2019
+
+Art Director
+OZON Advertising, Bahrain
+Apr 2017 - Apr 2018
+
+Senior Graphic Designer
+TCIG, Bahrain
+Nov 2015 - Mar 2017
+
+And the list goes on. Kindly ask for the updated resume.
