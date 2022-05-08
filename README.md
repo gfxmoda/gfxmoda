@@ -4,19 +4,19 @@
 ☎️ EG: 00201273885155   BH: 0097334083104
 🏠 Alexandria, Egypt
 
-🚀 SKILLS 🚀
+## 🚀 SKILLS 🚀
 
 C++, Javascript, Nodejs, Expressjs, Reactjs, Redux, Vanillajs, MongoDB, Python, Dart, Flutter, CSS, HTML
 
-💻 TECHNIQUES 💻
+## 💻 TECHNIQUES 💻
 
 OOP, Data Structures, Algorithms, Mathematics, Problem Solving, Pseudocodes, Flowcharts
 
-🔥 ART DIRECTION 🔥
+## 🔥 ART DIRECTION 🔥
 
 Abstraction, Infographics, Illustrations, UI/UX
 
-🎨 MAIN CREATIVE CAREER (FORMERLY) 🎨
+## 🎨 MAIN CREATIVE CAREER (FORMERLY) 🎨
 
 The scope of work varies between several types. Elaborations have been made with multiple artists and creative teams around the globe. Including and not limited to:
 Art Direction, Marketing Communications, Creative Advertising, Identity Design, Presentation, Retouching, UI/UX Design, Illustration, Abstract Art, Creative Visuals, Animation, Interaction, Virtual Tours, 3D Generalization
