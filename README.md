@@ -5,7 +5,7 @@
 ###
 Find me @ [Linkedin](https://www.linkedin.com/in/gfxmoda/), [Behance](https://www.behance.net/gfxmoda), [Pinterest](https://www.pinterest.com/gfxmoda/_saved/)
 ###
-I'm currently working on phase 2 of The VR Voyage Classroom
+I'm currently working on phase 2 of The VR Voyage Classroom project
 ###
 <a href="https://www.vrvclassroom.com" target="_blank"><img src="https://www.vrvclassroom.com/images/landing-homepage.png" alt="" /></a>
 ###
