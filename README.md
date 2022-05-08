@@ -6,7 +6,11 @@
 ###
 Find me @ [Linkedin](https://www.linkedin.com/in/gfxmoda/), [Behance](https://www.behance.net/gfxmoda), [Pinterest](https://www.pinterest.com/gfxmoda/_saved/)
 ###
-I'm currently working on phase 2 of <a href="https://www.vrvclassroom.com" target="_blank"><img src="https://www.vrvclassroom.com/images/landing-homepage.png" alt="" /></a>
+I'm currently working on phase 2 of The VR Voyage Classroom
+###
+<a href="https://www.vrvclassroom.com" target="_blank"><img src="https://www.vrvclassroom.com/images/landing-homepage.png" alt="" /></a>
+###
+VRVClassroom is a platform that brings together institutions and experts from across the world to create an immersive and engaging learning experience for students. It's Canadian based organization located in Gibsons, British Columbia.
 
 ## Skills
 C++, Javascript, Nodejs, Expressjs, Reactjs, Redux, Vanillajs, MongoDB, Python, Dart, Flutter, CSS, HTML
@@ -33,5 +37,3 @@ I'm passionate and curious graphic guru with unlimited imaginary in producing un
 I'm and eloquently former creator of impressive identity design styleguides, brand positionings, and brandss visual aspects. I'm a concept developer and marketing communications expert.
 
 I'm optimist about having the opportunity to produce useful technologies that help solving problems for humanity. And big striker in solving competitive programming challenges under very strict rules and constraints... Yet still consider myself don't know programming well and will keep spending my whole life learning it!
-
-I’m currently working on The VR Voyage Classroom which is a platform that brings together institutions and experts from across the world to create an immersive and engaging learning experience for students. It's Canadian based organization located in Gibsons, British Columbia.
