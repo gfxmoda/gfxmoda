@@ -28,11 +28,11 @@ I'm quickly adaptive with the scenarios of the different work environments and e
 
 I'm proficient with CSS and JavaScript, with extensive knowledge of UX and user psychology and the ability of building convenient and competitive style libraries that help boosting the conversion of any existing layouts entirely with improved design and code.
 
-I have an advanced experience of MERN Stack and familiar with the MVC & RESTFul APIs that use NodeJs and ExpressJs and able to deal with backend user requests and link them to the front-end layouts and databases using the most popular js framework => ReactJs.
+I have an advanced experience of the MERN Stack and familiar with the MVC & RESTFul APIs that use NodeJs and ExpressJs and able to deal with backend user requests and link them to the front-end layouts and databases using the most popular js framework => ReactJs.
 
-I'm extensively familiar with building different data structures' types and traversing them using the suitable algorithms in C++ and JavaScript with Intermediate knowledge of the well known JavaScript design patterns.
+I'm extensively familiar with building different data structures and types and traversing them using the suitable algorithms in C++ and JavaScript with intermediate knowledge of the well known JavaScript design patterns.
 
-I write of meaningful, reliable, scalable, and reusable code that's based on OOP and its deep level of encapsulation, destructuring, and polymorphism.
+I write a meaningful, reliable, scalable, and reusable code that's based on OOP and its deep level of encapsulation and modularity.
 
 I'm passionate, curious and crazy graphic guru with unlimited imaginary in producing unique design layouts, creative key visuals. All that stems from the creative art direction and 10+ years of awesome experiences and agency backgrounds locally and internationally in creative advertising and marketing communications.
 
@@ -40,6 +40,6 @@ I'm and eloquently former creator of impressive identity design styleguides, bra
 
 I'm optimist about having the opportunity to produce useful technologies that help solving problems for humanity. And big striker in solving competitive programming challenges under very strict rules and constraints... Yet still consider myself don't know programming well and will keep spending my whole life learning it!
 
-I’m currently working on The VR Voyage Classroom which is basically a platform that brings together institutions and experts from across the world to create an immersive and engaging learning experience for students. It's Canadian based organization located in Gibsons, British Columbia.
+I’m currently working on The VR Voyage Classroom which is a platform that brings together institutions and experts from across the world to create an immersive and engaging learning experience for students. It's Canadian based organization located in Gibsons, British Columbia.
 
 <img src="https://github-readme-stats.vercel.app/api?username=gfxmoda&&show_icons=true&title_color=05C3DD&icon_color=05C3DD&text_color=daf7dc&bg_color=151515">
