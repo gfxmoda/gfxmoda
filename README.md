@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Mahmoud, Creative Professional Full-stack Web Developer and former Creative Art Director with massive experience designing and building beautiful & responsive web apps and aesthetic user interfaces in different industry fields. VR, Finance, F&B, Cosmetics, Education, and more...
 
 📧 gfxmoda@gmail.com
-☎️ EG: 00201273885155   BH: 0097334083104
-🏠 Alexandria, Egypt
+☎️ EG: 00201273885155
 ###
 Find me @ [Linkedin](https://www.linkedin.com/in/gfxmoda/), [Behance](https://www.behance.net/gfxmoda), [Pinterest](https://www.pinterest.com/gfxmoda/_saved/)
 ###
