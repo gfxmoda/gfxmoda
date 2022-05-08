@@ -4,7 +4,9 @@
 ☎️ EG: 00201273885155   BH: 0097334083104
 🏠 Alexandria, Egypt
 ###
-My work is @ [Linkedin](https://www.linkedin.com/in/gfxmoda/), [Behance](https://www.behance.net/gfxmoda), [Pinterest](https://www.pinterest.com/gfxmoda/_saved/)
+Find me @ [Linkedin](https://www.linkedin.com/in/gfxmoda/), [Behance](https://www.behance.net/gfxmoda), [Pinterest](https://www.pinterest.com/gfxmoda/_saved/)
+###
+I'm currently working on phase 2 of <a href="https://www.vrvclassroom.com" target="_blank"><img src="https://www.vrvclassroom.com/images/landing-homepage.png" alt="" /></a>
 
 ## Skills
 C++, Javascript, Nodejs, Expressjs, Reactjs, Redux, Vanillajs, MongoDB, Python, Dart, Flutter, CSS, HTML
@@ -19,6 +21,7 @@ Abstraction, Infographics, Illustrations, UI/UX
 The scope of work varies between several types. Elaborations have been made with multiple artists and creative teams around the globe. Including and not limited to:
 Art Direction, Marketing Communications, Creative Advertising, Identity Design, Presentation, Retouching, UI/UX Design, Illustration, Abstract Art, Creative Visuals, Animation, Interaction, Virtual Tours, 3D Generalization
 
+## More about me
 I'm proficient with CSS and JavaScript, with extensive knowledge of UX and user psychology and the ability of building convenient and competitive style libraries that help boosting the conversion of any existing layouts entirely with improved design and code.
 
 I have an advanced experience of the MERN Stack and familiar with the MVC & RESTFul APIs that use NodeJs and ExpressJs and able to deal with backend user requests and link them to the front-end layouts and databases using the most popular js framework => ReactJs.
