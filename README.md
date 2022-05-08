@@ -41,3 +41,5 @@ I'm and eloquently former creator of impressive identity design styleguides, bra
 I'm optimist about having the opportunity to produce useful technologies that help solving problems for humanity. And big striker in solving competitive programming challenges under very strict rules and constraints... Yet still consider myself don't know programming well and will keep spending my whole life learning it!
 
 I’m currently working on The VR Voyage Classroom which is basically a platform that brings together institutions and experts from across the world to create an immersive and engaging learning experience for students. It's Canadian based organization located in Gibsons, British Columbia.
+
+<img src="https://github-readme-stats.vercel.app/api?username=gfxmoda&&show_icons=true&title_color=05C3DD&icon_color=05C3DD&text_color=daf7dc&bg_color=151515">
