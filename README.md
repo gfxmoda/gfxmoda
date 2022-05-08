@@ -4,9 +4,7 @@
 ☎️ EG: 00201273885155   BH: 0097334083104
 🏠 Alexandria, Egypt
 ###
-[Linkedin](https://www.linkedin.com/in/gfxmoda/)
-###
-[Behance](https://www.behance.net/gfxmoda)
+My work is @ [Linkedin](https://www.linkedin.com/in/gfxmoda/), [Behance](https://www.behance.net/gfxmoda), [Pinterest](https://www.pinterest.com/gfxmoda/_saved/)
 
 ## Skills
 C++, Javascript, Nodejs, Expressjs, Reactjs, Redux, Vanillajs, MongoDB, Python, Dart, Flutter, CSS, HTML
