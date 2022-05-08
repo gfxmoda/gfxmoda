@@ -3,6 +3,7 @@
 📧 gfxmoda@gmail.com
 ☎️ EG: 00201273885155   BH: 0097334083104
 🏠 Alexandria, Egypt
+[Linkedin](https://www.linkedin.com/in/gfxmoda/)
 
 ## Skills
 C++, Javascript, Nodejs, Expressjs, Reactjs, Redux, Vanillajs, MongoDB, Python, Dart, Flutter, CSS, HTML
