@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm Mahmoud, Lead Full-stack Developer and former Creative Art Director with massive experience designing and building beautiful & responsive web apps and aesthetic user interfaces in different industry fields. VR, Finance, F&B, Cosmetics, Education, and more...
 
 📧 gfxmoda@gmail.com
-☎️ +90 (535) 341 57 59
+☎️ +201210597630
 ###
 Find me @ [Linkedin](https://www.linkedin.com/in/gfxmoda/), [Behance](https://www.behance.net/gfxmoda)
 ###
